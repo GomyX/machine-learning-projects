@@ -34,7 +34,7 @@ The project has the following dependencies:
 * NumPy: a fundamental package for scientific computing in Python.
 Make sure you have these dependencies installed before running the project.
 
-Contributors
+## Contributors
 Mahmoud Thabet
 
 
