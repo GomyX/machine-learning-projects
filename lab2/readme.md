@@ -10,14 +10,15 @@ Linear regression is a supervised learning algorithm used for regression tasks. 
 ## Implementation Details
 The implementation of the Iris dataset classification using linear regression from scratch involves the following steps:
 
-Data Preprocessing: Load the Iris dataset and preprocess it by performing necessary data cleanings and transformation steps, such as handling missing values, encoding categorical variables, and splitting the dataset into training and testing sets.
+1. Data Preprocessing: Load the Iris dataset and preprocess it by performing necessary data cleanings and transformation steps, such as handling missing values, encoding categorical variables, and splitting the dataset into training and testing sets.
 
-Linear Regression Model: Implement the linear regression model using NumPy. 
-Training: Train the linear regression model using the training set. This involves feeding the training data to the model.
+2. Linear Regression Model: Implement the linear regression model using NumPy. 
+Training: Train the linear regression model using the training set. This involves feeding the training data to the model as a matrix.
 
-Testing and Evaluation: Evaluate the performance of the trained model on the testing set. Calculate relevant metrics such as accuracy, precision, recall, and F1-score to assess the model's classification performance.
+3. calculating the weights  (w=(Z^T * Z)^-1 * Z^T * b) 
+4. Testing and Evaluation: Evaluate the performance of the trained model on the testing set. Calculate relevant metrics such as accuracy, precision, recall, and F1-score to assess the model's classification performance.
 
-Usage
+## Usage
 To use this project for Iris dataset classification using linear regression:
 
 1. Clone or download the project repository.
