@@ -16,14 +16,14 @@ The implementation of the Iris dataset classification using linear regression fr
 Training: Train the linear regression model using the training set. This involves feeding the training data to the model as a matrix.
 
 3. calculating the weights  (w=(Z^T * Z)^-1 * Z^T * b) 
-4. Testing and Evaluation: Evaluate the performance of the trained model on the testing set. Calculate relevant metrics such as accuracy, precision, recall, and F1-score to assess the model's classification performance.
+4. Testing and Evaluation: Evaluate the performance of the trained model on the testing set. Calculate relevant metrics such as accuracy.
 
 ## Usage
 To use this project for Iris dataset classification using linear regression:
 
 1. Clone or download the project repository.
 
-2. Make sure you have the necessary dependencies installed (e.g., NumPy).
+2. Ensure you have the necessary dependencies installed (e.g., NumPy).
 
 3. Run the notebook file to execute the classification process.
 
