@@ -1,2 +1,2 @@
 # machine-learning-algorithms-on-some-datasets
-implementing some machine learning algorithms using some popular datasets 
+implementing popular machine learning algorithms(buit-in and from scratch) using popular datasets 
