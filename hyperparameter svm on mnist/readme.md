@@ -35,7 +35,5 @@ To perform hyperparameter tuning on the SVM classifier, follow these steps:
 This project demonstrates the process of hyperparameter tuning for the SVM classifier on the MNIST dataset. By optimizing the hyperparameters, you can achieve improved accuracy and performance for digit recognition. Feel free to modify the code and explore other hyperparameters or tuning techniques to further enhance the results.
 
 ## contributers 
-'@GomyX'
-
-
-@<GomyX> <contributers>
+@<GomyX>
+ 
