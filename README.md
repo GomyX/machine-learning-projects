@@ -1,2 +1,5 @@
-# machine-learning-algorithms-on-some-datasets
-implementing popular machine learning algorithms(buit-in and from scratch) using popular datasets 
+# Machine Learning Projects
+This repository contains a collection of machine-learning projects implemented in Python. Each project focuses on a specific machine-learning technique or concept and provides code examples, datasets, and documentation
+
+
+
